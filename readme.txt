@@ -1,9 +1,9 @@
 Google Noto (no more tofu) Fonts covers all scripts encoded by Unicode. 
-This repository http://github.com/TakashiSasaki/NotoFontImages contains PNG image of each codepoint.
+This repository http://github.com/TakashiSasaki/NotoFontImages is intended to provide PNG images of glyphs.
 Currently all PNG files are generated in 40pt.
 
 Usage:
-https://takashisasaki.github.io/NotoFontImages/40pt/<8 digit lower case hex of codepoint>.png
+https://takashisasaki.github.io/NotoFontImages/40pt/8_digit_lower_case_hex_of_codepoint.png
 
 Example:
 https://takashisasaki.github.io/NotoFontImages/40pt/0001f63c.png
