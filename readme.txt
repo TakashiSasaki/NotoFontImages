@@ -13,5 +13,5 @@ All Noto fonts are published under the SIL Open Font License, Version 1.1.
 Language data and some sample texts are from the Unicode CLDR project.
 
 Note:
-Since this repository is not official one, please let me ( https://twitter.com/TakashiSasaki ) know i I need to delete it. 
+Since this repository is not official one, please let me ( https://twitter.com/TakashiSasaki ) know if I need to delete it. 
 I don't want to make wrong use of these fonts and also want to prevent abuses of intellectual property rights.
